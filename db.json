@@ -23,6 +23,12 @@
       "day": "Dec 27th at 8.30am",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Meet the girlfreind",
+      "day": "Dec 17th at 8.30am",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
